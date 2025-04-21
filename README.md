@@ -1,8 +1,8 @@
 Aquest és el repositori de les xerrades de GitHub. 
 
 # Objectiu
-El farem servir per a que els assistents demanin el ser certificat d'assistència.
+Es farà servir per a demanar el certificat d'assistència.
 
-Per a fer-ho, [fes un fork a aquest repo](https://github.com/CODE-URV/github-talk/fork) i crea el fitxer `EL_TEU_NOM_USUARI` amb el correu on vulguis rebre el certificat a la carpeta `assistents` al teu fork. Després, obre una pull request del teu fork cap a aquest repositori. 
+Per a fer-ho, [cal fer un fork a aquest repo](https://github.com/CODE-URV/github-talk/fork) i crear el fitxer `EL_TEU_NOM_USUARI` a la carpeta `assistents`, amb el correu on es vulgui rebre el certificat. Després, s'ha d'obrir una pull request del fork cap a aquest repositori. 
 
-En uns mesos els enviaré en quan tingui temps. 
+Ens uns mesos s'enviarà. 
